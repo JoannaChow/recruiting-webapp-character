@@ -1,3 +1,5 @@
+export const GIT_USERNAME = "JoannaChow";
+
 export const ATTRIBUTE_LIST = [
     'Strength',
     'Dexterity',
